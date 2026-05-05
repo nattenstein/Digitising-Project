@@ -81,3 +81,12 @@ footer {
     margin: auto;
     width: 50%;
 }
+
+.img-layout {
+    margin-top: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
+    display: flex;
+    justify-content: space-between; /* Adjusts spacing between images */
+    gap: 10px; /* Adds space between columns */
+}
