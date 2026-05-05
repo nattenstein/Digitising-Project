@@ -75,3 +75,9 @@ footer {
     border: 1px solid black;
     width: 500px;
 }
+
+.index-img { /*for the index image being centered*/
+    width: 100%; /* Makes images fill their container */
+    height: auto; /* Maintains aspect ratio */
+    display: block;
+}
