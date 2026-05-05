@@ -77,7 +77,7 @@ footer {
 }
 
 .index-img { /*for the index image being centered*/
-    width: 50%; 
-    margin: auto; 
     display: block;
+    margin: auto;
+    width: 50%;
 }
